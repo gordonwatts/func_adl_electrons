@@ -1,6 +1,4 @@
 numpy==1.17.5
-ServiceX-fe
 func_adl_xAOD
-func_adl_xAOD.backend
 matplotlib
 jupyterlab
