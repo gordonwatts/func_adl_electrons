@@ -1,4 +1,5 @@
-numpy==1.17.5
-func_adl_xAOD
+numpy
+func_adl_servicex
 matplotlib
 jupyterlab
+ipywidgets
